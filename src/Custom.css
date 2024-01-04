@@ -548,7 +548,7 @@ ol {
 }*/
 
 .porfolioImg::after {
-  background-color: rgba(0, 0, 0, .75);
+  background-color: rgba(0, 0, 0, .55);
   position: absolute;
   inset: 0;
   content: '';
@@ -592,11 +592,17 @@ ol {
   width: 100%;
   margin: 0;
   text-align: center;
+  background: #e5540a5e;
+  color: #fff;
 }
 
 .porfolioCard:hover .primaryBtn {
   visibility: visible;
   opacity: 1;
+}
+
+.porfolioCard .primaryBtn:hover {
+  background-color: var(--primaryColor);
 }
 
 /* Content */

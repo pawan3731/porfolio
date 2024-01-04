@@ -45,15 +45,12 @@ const PortfolioItems = ({ items }) => {
 
 const Portfolio = () => {
     const items = [
-        { id: 1, title: 'Web Design', decs: 'Business Website Design', img: './images/website01.png', path: "https://www.google.com" },
-        { id: 2, title: 'Web Development', decs: 'Food Website Design', img: './images/portfolio02.jpg', path: "https://www.google.com" },
-        { id: 3, title: 'Digital Marketing', decs: 'App Marketing', img: './images/portfolio03.jpg', path: "https://www.google.com" },
-        { id: 4, title: 'Web Design', decs: 'Business Website Design', img: './images/portfolio04.jpg', path: "https://www.google.com" },
-        { id: 5, title: 'Web Development', decs: 'Food Website Design', img: './images/portfolio05.jpg', path: "https://www.google.com" },
-        { id: 6, title: 'Digital Marketing', decs: 'App Marketing', img: './images/portfolio06.jpg', path: "https://www.google.com" },
-        { id: 7, title: 'Web Design', decs: 'Business Website Design', img: './images/portfolio07.jpg', path: "https://www.google.com" },
-        { id: 8, title: 'Web Development', decs: 'Food Website Design', img: './images/portfolio08.jpg', path: "https://www.google.com" },
-        { id: 9, title: 'Digital Marketing', decs: 'App Marketing', img: './images/portfolio09.jpg', path: "https://www.google.com" }
+        { id: 1, title: 'Web Design', decs: 'Business Website Design', img: './images/website01.png', path: "https://company-three-steel.vercel.app/" },
+        { id: 2, title: 'Web Development', decs: 'Food Website Design', img: './images/website05.png', path: "https://p3stoken.com/" },
+        { id: 3, title: 'Digital Marketing', decs: 'App Marketing', img: './images/website06.png', path: "https://vcodeit.com/" },
+        { id: 4, title: 'Web Development', decs: 'App Marketing', img: './images/website02.png', path: "https://thebladeapp.com/" },
+        { id: 5, title: 'Digital Marketing', decs: 'Food Website Design', img: './images/website03.png', path: "https://buuzapp.com/" },
+        { id: 6, title: 'Web Design', decs: 'Business Website Design', img: './images/website04.png', path: "https://givebackrx.com/" },
     ];
 
     return (
