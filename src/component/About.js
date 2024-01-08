@@ -6,7 +6,7 @@ function About() {
                 <div className="aboutRow">
                     <div className="aboutCol">
                         <div className="aboutImg lightBg">
-                            <img src="./images/about.png" alt="about-img"></img>
+                            <img src="./images/my_photo.png" alt="about-img"></img>
                         </div>
                     </div>
                     <div className="aboutCol">
@@ -15,27 +15,14 @@ function About() {
                                 <h2>About</h2>
                             </div>
                             <h4 className="subTitle">I have 5+ years of experiences in Frontend Development for give you better services.</h4>
-                            <p className="textMd">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+                            <p className="textMd">In the tranquility of this moment, my soul revels, akin to the gentle embrace of spring mornings, cherished with utmost delight.</p>
                             <div className="personlDetail">
-                                <p className="textMd"><span>Name : </span> John Doe</p>
-                                <p className="textMd"><span>Email : </span> johndoe@gmail.com</p>
-                                <p className="textMd"><span>Phone : </span> +91-1234567890</p>
+                                <p className="textMd"><span>Name : </span> Om Parkash</p>
+                                <p className="textMd"><span>Email : </span> pawan007Nokhwal@gmail.com</p>
+                                <p className="textMd"><span>Phone : </span> +91-9888223731</p>
                                 <p className="textMd"><span>Age : </span> 31</p>
+                                <p className="textMd"><span>Marital Status : </span> Married</p>
                                 <p className="textMd"><span>From : </span> Sector 60, Phase 8b, Mohali</p>
-                            </div>
-                            <div className="aboutFact">
-                                <p>
-                                    <span>120+</span>
-                                    Projects Completed
-                                </p>
-                                <p>
-                                    <span>10+</span>
-                                    Awards Win
-                                </p>
-                                <p>
-                                    <span>12k</span>
-                                    Happy clients
-                                </p>
                             </div>
                         </div>
                     </div>

@@ -49,7 +49,7 @@ function Header() {
                 <div className="container">
                     <div className="siteNav">
                         <div className="siteLogo">
-                            <span>OP</span>
+                            <span>OM</span>
                         </div>
                         <ul className={addClass ? 'show' : ''} onClick={toggleClass}>
                             <div className="mobileToggle">
@@ -69,9 +69,9 @@ function Header() {
                             <li>
                                 <Link to="/" onClick={() => scrollToSection('portfolio')}>Portfolio</Link>
                             </li>
-                            <li>
+                            {/* <li>
                                 <Link to="/" onClick={() => scrollToSection('contact')}>Contact</Link>
-                            </li>
+                            </li> */}
                         </ul>
                         <div>
                             <label className="switchBtn" onClick={toggleBodyClass}>

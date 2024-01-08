@@ -14,6 +14,7 @@ function Skill() {
     const skillData = [
         { skill: 'Html', skillCount: 95 },
         { skill: 'Css', skillCount: 90 },
+        { skill: 'Responsive Css', skillCount: 92 },
         { skill: 'Bootstrap', skillCount: 85 },
         { skill: 'Tailwind Css', skillCount: 75 },
         { skill: 'And Design', skillCount: 80 },
@@ -31,7 +32,7 @@ function Skill() {
             <div className="container">
                 <div className="sectionTitleWrap textCenter titleSpace">
                     <h2>My Skills</h2>
-                    <p className="textMd">I Like To Craft Beautiful And Scalable Web Products</p>
+                    <p className="textMd">"Crafting digital excellence with a blend of innovation and expertise."</p>
                 </div>
                 <div className="skillRow">
                     {skillData.map((items, index) => {

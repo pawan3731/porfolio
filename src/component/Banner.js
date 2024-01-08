@@ -14,11 +14,11 @@ function Banner() {
         <section className="banner sectionPadding" id='home'>
             <div className="container">
                 <div style={{width:'100%'}}>
-                    <h1>Hi, I Am John Doe</h1>
+                    <h1>Hi, I Am Om Parkash</h1>
 
                     <TypeAnimation
                         sequence={[
-                            'I am Designer',
+                            'I am Web Designer',
                             1000,
                             'I am Forntend Developer',
                             1000,
@@ -32,7 +32,7 @@ function Banner() {
 
                     <Link className='primaryBtn' to="/" onClick={() => scrollToSection('contact')}>Contact Us</Link>
 
-                    <a href={'./images/dummy.pdf'} download="cv" target="_blank" rel="noreferrer" className='primaryBtn orangeBtn'>Download CV</a>
+                    <a href={'./images/resume.pdf'} download="cv" target="_blank" rel="noreferrer" className='primaryBtn orangeBtn'>Download CV</a>
                 </div>
             </div>
             <div className='bannerSocial'>
