@@ -14,7 +14,7 @@ function About() {
                             <div className="sectionTitleWrap">
                                 <h2>About</h2>
                             </div>
-                            <h4 className="subTitle">I have 5+ years of experiences in Frontend Development for give you better services.</h4>
+                            <h4 className="subTitle">I have 6+ years of experiences in Frontend Development for give you better services.</h4>
                             <p className="textMd">In the tranquility of this moment, my soul revels, akin to the gentle embrace of spring mornings, cherished with utmost delight.</p>
                             <div className="personlDetail">
                                 <p className="textMd"><span>Name : </span> Om Parkash</p>
