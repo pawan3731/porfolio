@@ -46,7 +46,7 @@ const PortfolioItems = ({ items }) => {
 
 const Portfolio = () => {
     const items = [
-        { id: 1, title: 'Web Design', decs: 'Company Website', img: './images/website01.png', path: "https://company-three-steel.vercel.app/" },
+        { id: 1, title: 'Web Design', decs: 'Company Website', img: './images/website01.png', path: "https://online-classes-peach.vercel.app/" },
         { id: 2, title: 'Web Design', decs: 'Token Website', img: './images/website05.png', path: "https://p3stoken.com/" },
         { id: 3, title: 'Web Design', decs: 'Company Website', img: './images/website06.png', path: "https://vcodeit.com/" },
         { id: 4, title: 'Web Design', decs: 'Advertisement Website', img: './images/website02.png', path: "https://thebladeapp.com/" },
